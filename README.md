@@ -17,7 +17,6 @@ This project is an intelligent movie recommender system that suggests movies bas
 
 ## 📁 Project Structure
 
-\`\`\`
 imdb_movie_recommender/
 │
 ├── data/
@@ -34,7 +33,6 @@ imdb_movie_recommender/
 │
 ├── requirements.txt                  # Required libraries
 └── README.md                         # Project overview
-\`\`\`
 
 ---
 
