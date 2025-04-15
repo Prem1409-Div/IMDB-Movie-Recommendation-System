@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🎬 IMDb Movie Recommendation System Using Storylines
 
 This project is an intelligent movie recommender system that suggests movies based on storyline similarity. It scrapes 2024 movie data from IMDb using Selenium and applies Natural Language Processing (NLP) techniques like **TF-IDF** and **Cosine Similarity** to recommend top 5 similar movies. The app comes with a user-friendly **Streamlit** interface.
