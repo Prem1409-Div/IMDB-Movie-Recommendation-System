@@ -70,10 +70,7 @@ python scraper.py
 3.  **Matching**: It calculates the cosine similarity between your input and the storylines of 2000+ movies in the database.
 4.  **Output**: The top 5 most similar movies are displayed.
 
-## 📸 Screenshots
-
-![IMDb Recommender UI](refined_ui_grid_1764166179768.png)
-
 ## 📝 License
 
 This project is for educational purposes. Data is sourced from IMDb.
+
